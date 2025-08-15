@@ -1,4 +1,4 @@
-# Top JavaScript Interview Questions (Updated for 2025)
+# Top JavaScript Interview Questions (Updated for 2025) 
 
 **Updated for 2025!** This repository contains a few hundred curated JavaScript interview questions with high quality answers for acing your Front End Engineer interviews. The questions are divided into two sections:
 
